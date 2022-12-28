@@ -1,0 +1,19 @@
+#color-property {
+    font-size: 20px;
+    font-family: Helvetica;
+}
+#color-property h1 {
+    color: red;
+}
+#color-property h2 {
+    color:  rgba(255,165,0);
+}
+#color-property h3 {
+    color: #FFFF00;
+}
+#size-property {
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+    border: 0.2em solid #000;
+}
